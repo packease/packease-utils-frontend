@@ -1,4 +1,4 @@
-Packease-Utils for Front-end
+P.E-Utils for Front-end
 ==================
 
 ## About P.E-Utils
