@@ -1,0 +1,30 @@
+{
+  "name": "packease-utils-frontend",
+  "homepage": "https://github.com/jeromechan/packease-utils-frontend",
+  "description": "An utils project of PE-Utils series for fronte-end developing job.",
+  "keywords": [
+    "packease-utils-frontend"
+  ],
+  "author": "chenjinlong <jerome.chan369@gmail.com>",
+  "version": "1.0.0",
+  "main": "html/test.js",
+  "files": [
+    "html/",
+    "css/",
+    "javascript/*.{js}"
+  ],
+  "private": true,
+  "directories": {
+    "lib": "javascript/lib"
+  },
+  "engines": {
+    "node": ">=7.4.0",
+    "yarn": "^0.23.2"
+  },
+  "repository": "github:jeromechan/packease-utils-frontend",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "requirejs": "^2.3.3"
+  }
+}

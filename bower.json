@@ -1,0 +1,29 @@
+{
+  "name": "packease-utils-frontend",
+  "homepage": "https://github.com/jeromechan/packease-utils-frontend",
+  "version": "1.0.0",
+  "keywords": [
+    "packease-utils-frontend"
+  ],
+  "authors": [
+    "chenjinlong <jerome.chan369@gmail.com>"
+  ],
+  "description": "An utils project of PE-Utils series for fronte-end developing job.",
+  "main": "html/test.js",
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "requirejs": "^2.3.3"
+  }
+}
