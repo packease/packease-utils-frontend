@@ -6,6 +6,16 @@ P.E-Utils for Front-end
 P.E-Utils series framework is a very powerful and useful collection of utility functions written by languages.
 We hope you will like it as we do.
 
+## Catalogs & Tutorials
+
+The project have integrated YarnPkg, Bower, Gulp, RequireJS techniques. You need to learn about these framework before you
+use.
+
+* Bower: [https://bower.io/](https://bower.io/)
+* YarnPkg: [https://yarnpkg.com/](https://yarnpkg.com/)
+* Gulp: [http://gulpjs.com/](http://gulpjs.com/)
+* RequireJS: [http://requirejs.org/](http://requirejs.org/)
+
 ## Development
 
 P.E-Utils has only one branch, and it is the only one used for active development.
