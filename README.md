@@ -8,7 +8,7 @@ We hope you will like it as we do.
 
 ## Catalogs & Tutorials
 
-The project have integrated YarnPkg, Bower, Gulp, RequireJS techniques. You need to learn about these framework before you
+The project integrates YarnPkg, Bower, Gulp, RequireJS techniques. You need to learn about these framework before you
 use.
 
 * Bower: [https://bower.io/](https://bower.io/)
