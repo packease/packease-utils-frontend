@@ -1,4 +1,4 @@
-Packease-Utils for javascript
+Packease-Utils for Front-end
 ==================
 
 ## About P.E-Utils
