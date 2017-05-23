@@ -1,6 +1,8 @@
 P.E-Utils for Front-end
 ==================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5fa60a3e1aa0487e8d4ac1da9eee865c)](https://www.codacy.com/app/jerome.chan369/packease-utils-frontend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=packease/packease-utils-frontend&amp;utm_campaign=Badge_Grade)
+
 ## About P.E-Utils
 
 P.E-Utils series framework is a very powerful and useful collection of utility functions written by languages.
