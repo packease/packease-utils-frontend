@@ -1,6 +1,7 @@
 P.E-Utils for Front-end
 ==================
 
+[![Actively Maintained](https://maintained.tech/badge.svg)](https://maintained.tech/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5fa60a3e1aa0487e8d4ac1da9eee865c)](https://www.codacy.com/app/jerome.chan369/packease-utils-frontend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=packease/packease-utils-frontend&amp;utm_campaign=Badge_Grade)
 
 ## About P.E-Utils
